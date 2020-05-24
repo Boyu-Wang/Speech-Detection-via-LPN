@@ -1,6 +1,6 @@
 # Speech Activity Detection via Landmark Pooling Network
 
-This repo contains the dataset and code for our FG 19 paper [Are You Speaking: Real-Time Speech Activity Detection via Landmark Pooling Network] (https://github.com/Boyu-Wang/Speech-Detection-via-LPN/blob/master/FG19_speech_detection.pdf). The original paper was implemented in Tensorflow. This is a Pytorch version.
+This repo contains the dataset and code for our FG 19 paper [Are You Speaking: Real-Time Speech Activity Detection via Landmark Pooling Network](FG19_speech_detection.pdf). The original paper was implemented in Tensorflow. This is a Pytorch version.
 
 ## LSW Dataset
 
