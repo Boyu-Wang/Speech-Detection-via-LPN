@@ -1,4 +1,4 @@
-# Speech Activity Detection via Landmark Pooling Network
+# Are You Speaking: Real-Time Speech Activity Detection via Landmark Pooling Network
 
 This repo contains the dataset and code for our FG 19 paper [Are You Speaking: Real-Time Speech Activity Detection via Landmark Pooling Network](FG19_speech_detection.pdf). The original paper was implemented in Tensorflow. This is a Pytorch version.
 
@@ -53,4 +53,5 @@ Please cite our paper if you are using our dataset or code:
   author={Boyu Wang and Xiaolong Wang},
   booktitle={2019 14th IEEE International Conference on Automatic Face   Gesture Recognition (FG 2019)}, 
   title={Are You Speaking: Real-Time Speech Activity Detection via Landmark Pooling Network}, 
-  year={2019}}```
+  year={2019}}
+```
