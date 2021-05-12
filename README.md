@@ -4,7 +4,7 @@ This repo contains the dataset and code for our FG 19 paper [Are You Speaking: R
 
 ## LSW Dataset
 
-The LSW dataset can be downloaded [here](http://vision.cs.stonybrook.edu/~boyu/LSW_dataset.zip): which includes aligned mouth image and aligned mouth landmark.
+The LSW dataset can be downloaded [here](http://vision.cs.stonybrook.edu/~boyu/LSW_dataset.zip) or [Google Drive](https://drive.google.com/file/d/1Kvv5QM1UiVNklGTQvnXSQmTpwv9uhm6I/view?usp=sharing): which includes aligned mouth image and aligned mouth landmark.
 
 
 
